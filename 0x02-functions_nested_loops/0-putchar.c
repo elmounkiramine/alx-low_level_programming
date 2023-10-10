@@ -14,3 +14,4 @@ int main(void)
 		_putchar(str[ch]);
 	_putchar('\n');
 	return (0);
+}
